@@ -1,3 +1,0 @@
-# Accessories
-
-### Accessory List Builder
